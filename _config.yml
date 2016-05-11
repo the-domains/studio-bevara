@@ -1,0 +1,28 @@
+name: studio bevara
+favicon: null
+layout_spectrum: 0.6980777480639517
+typography_spectrum: 0.47032566322013736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09150056098587811
+  lightness: 0.724738173885271
+  saturation: 0.9331255538854748
+  rhythmicContrast: 0.36609684280119836
+purpose: []
