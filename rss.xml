@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[studio bevara]]></title>
         <description><![CDATA[studio bevara]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio-bevara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 00:33:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 00:47:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-bevara/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IndieGogo Video]]></title>
+            <description><![CDATA[<article><h1>IndieGogo Video</h1><p>This is "IndieGogo Video" by studiobevara on Vimeo, the home for high quality videos and the people who love them.</p></article>]]></description>
+            <link>https://vimeo.com/130671354</link>
+            <guid isPermaLink="false">1589e466-d2b4-492f-9932-a3403bd846cd</guid>
+            <pubDate>Wed, 11 May 2016 00:45:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d58586-601a-4a4f-b626-d78a0e3b7cf4.jpg">]]></description>
-            <link>undefinedcool-shoes/index.html</link>
+            <link>https://thegrid.ai/studio-bevara/cool-shoes/index.html</link>
             <guid isPermaLink="false">5d5b7d03-bcc7-4c01-9a97-dfba235653b2</guid>
             <pubDate>Wed, 11 May 2016 00:33:22 GMT</pubDate>
         </item>
